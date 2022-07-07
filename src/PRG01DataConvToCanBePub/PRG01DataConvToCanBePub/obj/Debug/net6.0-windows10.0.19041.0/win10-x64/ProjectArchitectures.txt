@@ -1,0 +1,1 @@
+C:\Users\yukke\Documents\GitHub\DataConvToCanBePub\src\PRG01DataConvToCanBePub\PRG01DataConvToCanBePub\PRG01DataConvToCanBePub.csproj;x64
